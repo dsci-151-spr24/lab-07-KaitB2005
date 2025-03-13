@@ -1,6 +1,7 @@
 ---
 title: "Lab 07 - Smokers in Whickham"
 subtitle: "Simpson's paradox"
+author: "Kait Buckley"
 output: 
   tufte::tufte_html:
     tufte_variant: "envisioned"
@@ -23,7 +24,7 @@ In this lab we analyse the relationships between these variables, first two at a
 # Learning goals
 
 -   Visualising relationships between variables
--   Discovering Simpson's paradox via visualisations
+-   Discovering Simpson's paradox via visualizations
 
 # Getting started
 
@@ -57,6 +58,8 @@ You can find out more about the dataset by inspecting their documentation, which
 # Exercises
 
 1.  What type of study do you think these data come from: observational or experiment?
+    
+    
     Why?
 
 2.  How many observations are in this dataset?
